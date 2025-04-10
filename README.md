@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/wafaasiddig/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/wafaasiddig/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/wafaasiddig/LeetCode/tree/master/0595-big-countries) |
+| [0596-classes-more-than-5-students](https://github.com/wafaasiddig/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [1258-article-views-i](https://github.com/wafaasiddig/LeetCode/tree/master/1258-article-views-i) |
 | [1670-patients-with-a-condition](https://github.com/wafaasiddig/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/wafaasiddig/LeetCode/tree/master/1811-fix-names-in-a-table) |

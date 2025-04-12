@@ -1,4 +1,4 @@
 import pandas as pd
 
 def find_classes(courses: pd.DataFrame) -> pd.DataFrame:
-    return courses.groupby('class').nunique().reset_index().query('student >= 5')[['class']]
+    return courses.groupby('class').filter(lambda x: len(x) >= 5)[['class']].drop_duplicates()

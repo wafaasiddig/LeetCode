@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/wafaasiddig/LeetCode/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/wafaasiddig/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/wafaasiddig/LeetCode/tree/master/0620-not-boring-movies) |
+| [0627-swap-salary](https://github.com/wafaasiddig/LeetCode/tree/master/0627-swap-salary) |
 | [1258-article-views-i](https://github.com/wafaasiddig/LeetCode/tree/master/1258-article-views-i) |
 | [1670-patients-with-a-condition](https://github.com/wafaasiddig/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/wafaasiddig/LeetCode/tree/master/1811-fix-names-in-a-table) |
